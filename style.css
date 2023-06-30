@@ -201,7 +201,7 @@ ul {
     font-size: 1rem;
     line-height: 200%;
     color: #564E4E;
-    padding-bottom: 2.5rem;
+    padding-bottom: 1.25rem;
 }
 
 .addition-link {
@@ -237,6 +237,10 @@ ul {
     font-size: 1rem;
     line-height: 200%;
     padding: 1% 0 !important;
+}
+
+.accordion-item:first-of-type .accordion-button {
+    padding-top: 0 !important;
 }
 
 .accordion-body {
