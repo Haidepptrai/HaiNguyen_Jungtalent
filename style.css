@@ -747,7 +747,9 @@ ul {
     * {
         font-size: 9.5px;
     }
-    
+    .logo svg{
+        width: 75%;
+    }
     .content-img img{
         width: 13%;
     }
